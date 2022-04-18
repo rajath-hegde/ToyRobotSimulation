@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToyRobotSimulation", "ToyRobotSimulation.csproj", "{24F8D3F8-1CE9-4B3D-85DE-81ABC4E9DDFF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToyRobotSimulation", "ToyRobotSimulation\ToyRobotSimulation.csproj", "{24F8D3F8-1CE9-4B3D-85DE-81ABC4E9DDFF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToyRobotSimulation.Tests", "..\ToyRobotSimulation.Tests\ToyRobotSimulation.Tests.csproj", "{1AFA14FE-FD1D-4B12-B47B-3535EE812B8E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToyRobotSimulation.Tests", "ToyRobotSimulation.Tests\ToyRobotSimulation.Tests.csproj", "{1AFA14FE-FD1D-4B12-B47B-3535EE812B8E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
