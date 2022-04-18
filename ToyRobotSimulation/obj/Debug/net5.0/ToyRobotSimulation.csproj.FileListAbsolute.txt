@@ -1,0 +1,15 @@
+C:\Workspace\Per\ToyRobotSimulation\ToyRobotSimulation\bin\Debug\net5.0\ToyRobotSimulation.exe
+C:\Workspace\Per\ToyRobotSimulation\ToyRobotSimulation\bin\Debug\net5.0\ToyRobotSimulation.deps.json
+C:\Workspace\Per\ToyRobotSimulation\ToyRobotSimulation\bin\Debug\net5.0\ToyRobotSimulation.runtimeconfig.json
+C:\Workspace\Per\ToyRobotSimulation\ToyRobotSimulation\bin\Debug\net5.0\ToyRobotSimulation.runtimeconfig.dev.json
+C:\Workspace\Per\ToyRobotSimulation\ToyRobotSimulation\bin\Debug\net5.0\ToyRobotSimulation.dll
+C:\Workspace\Per\ToyRobotSimulation\ToyRobotSimulation\bin\Debug\net5.0\ref\ToyRobotSimulation.dll
+C:\Workspace\Per\ToyRobotSimulation\ToyRobotSimulation\bin\Debug\net5.0\ToyRobotSimulation.pdb
+C:\Workspace\Per\ToyRobotSimulation\ToyRobotSimulation\obj\Debug\net5.0\ToyRobotSimulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Per\ToyRobotSimulation\ToyRobotSimulation\obj\Debug\net5.0\ToyRobotSimulation.AssemblyInfoInputs.cache
+C:\Workspace\Per\ToyRobotSimulation\ToyRobotSimulation\obj\Debug\net5.0\ToyRobotSimulation.AssemblyInfo.cs
+C:\Workspace\Per\ToyRobotSimulation\ToyRobotSimulation\obj\Debug\net5.0\ToyRobotSimulation.csproj.CoreCompileInputs.cache
+C:\Workspace\Per\ToyRobotSimulation\ToyRobotSimulation\obj\Debug\net5.0\ToyRobotSimulation.dll
+C:\Workspace\Per\ToyRobotSimulation\ToyRobotSimulation\obj\Debug\net5.0\ref\ToyRobotSimulation.dll
+C:\Workspace\Per\ToyRobotSimulation\ToyRobotSimulation\obj\Debug\net5.0\ToyRobotSimulation.pdb
+C:\Workspace\Per\ToyRobotSimulation\ToyRobotSimulation\obj\Debug\net5.0\ToyRobotSimulation.genruntimeconfig.cache
