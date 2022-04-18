@@ -72,5 +72,5 @@ Output: 3,3,NORTH \
     REPORT 
    
 7. Open command prompt to the file location where the ToyRobotSimulation.exe and the text with command are.
-8. Run the ToyRobotSimulation.exe Sample.txt
-9. You should see the output as in the examples provided inthe description.
+8. Run > ToyRobotSimulation.exe Sample.txt
+9. You should see the output as in the examples provided in the description.
